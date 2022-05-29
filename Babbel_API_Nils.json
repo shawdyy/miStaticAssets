@@ -436,9 +436,9 @@
         "locale": "de",
         "title": "A1 - Sprich darüber, wo Dinge sind",
         "available_seats_count": 6,
-        "end": "2022-05-29T15:00:00.000Z",
+        "end": "2022-05-31T15:00:00.000Z",
         "isCancelled": false,
-        "start": "2022-05-29T14:00:00.000Z",
+        "start": "2022-05-31T14:00:00.000Z",
         "booked_seat_count": 6,
         "package_id": "SPA_A1_09_Cosas-v1",
         "state": "SeminarWillStart",
@@ -447,7 +447,7 @@
           "displayname": "Nora"
         },
         "attended": false,
-        "remaining_seats_count": 0,
+        "remaining_seats_count": 1,
         "booked": false,
         "feedback_given": false
       },
@@ -459,9 +459,9 @@
         "locale": "de",
         "title": "A2 - Sprich über dein Zuhause",
         "available_seats_count": 6,
-        "end": "2022-05-29T15:00:00.000Z",
+        "end": "2022-05-31T15:00:00.000Z",
         "isCancelled": false,
-        "start": "2022-05-29T14:00:00.000Z",
+        "start": "2022-05-31T14:00:00.000Z",
         "booked_seat_count": 6,
         "package_id": "SPA_A2_14_Hogar-v1",
         "state": "SeminarWillStart",
@@ -470,7 +470,7 @@
           "displayname": "Marisel"
         },
         "attended": false,
-        "remaining_seats_count": 0,
+        "remaining_seats_count": 2,
         "booked": false,
         "feedback_given": false
       },
@@ -482,9 +482,9 @@
         "locale": "de",
         "title": "A2 - Sprich über den besten Urlaub deines Lebens",
         "available_seats_count": 6,
-        "end": "2022-05-29T16:00:00.000Z",
+        "end": "2022-06-01T16:00:00.000Z",
         "isCancelled": false,
-        "start": "2022-05-29T15:00:00.000Z",
+        "start": "2022-06-01T15:00:00.000Z",
         "booked_seat_count": 6,
         "package_id": "SPA_A2_29_Vacaciones-v1",
         "state": "SeminarScheduled",
@@ -493,7 +493,7 @@
           "displayname": "Marisel"
         },
         "attended": false,
-        "remaining_seats_count": 0,
+        "remaining_seats_count": 4,
         "booked": false,
         "feedback_given": false
       }
