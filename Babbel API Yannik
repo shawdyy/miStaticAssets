@@ -1,0 +1,502 @@
+{
+  "me": {
+    "user": {
+      "displayname": "Yannik",
+      "firstname": "Yannik",
+      "lastname": null,
+      "locale": "uk",
+      "learn_language_alpha3": "ITA",
+      "registration_date": "2022-05-29T12:07:15Z",
+      "uuid": "fab7a02fa0228b797562017576f2688a",
+      "authentication_token": "39yu7UoFrbaGSJ8tcJho",
+      "signin_token": "-regL6Aii3l1YgF1dvJoimKTe-Fz0OIG3VZAVeItqrPhdfke",
+      "country_alpha3": "DEU",
+      "email_validated": true,
+    }
+  },
+  "weekly_activity": {
+    "weekly_activity": {
+      "days": [
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "monday",
+          "date": "2022-05-23",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "tuesday",
+          "date": "2022-05-24",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "wednesday",
+          "date": "2022-05-25",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "thursday",
+          "date": "2022-05-26",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "friday",
+          "date": "2022-05-27",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 0,
+          "lessons_completed": 0,
+          "day": "saturday",
+          "date": "2022-05-28",
+          "is_today": false
+        },
+        {
+          "reviews_completed": 1,
+          "lessons_completed": 1,
+          "day": "sunday",
+          "date": "2022-05-29",
+          "is_today": true
+        }
+      ],
+      "stats": {
+        "review_count": 3,
+        "lesson_count": 3
+      },
+      "offset": 0,
+      "user": {
+        "has_activity_in_last_month": true,
+        "date_of_last_activity": "2022-05-29",
+        "date_of_last_lesson": "2022-05-29",
+        "date_of_last_review": "2022-05-29",
+        "goal_target": 6,
+        "goal_updated_at": "2022-05-29T13:26:16.629Z",
+        "first_goal_completed_at": null,
+        "latest_goal_completed_at": null
+      }
+    }
+  },
+  "learning_path": {
+    "items": [
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": true,
+          "last_completed_activity": false,
+          "completed": true,
+          "learning_activity_id": "c51b5bd4e2204cfda70cdccfc485227a",
+          "description": "Sehr angenehm!",
+          "detailed_description": "Hier lernst du: jemanden zu begrüßen und dich zu verabschieden - dich zu bedanken",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>jemanden zu begrüßen und dich zu verabschieden</li><li>dich zu bedanken</li></ol>",
+          "title": "¡Mucho gusto! Teil 1",
+          "image": {
+            "id": "6fa87bcf11fce208131156a193468d3c"
+          },
+          "lesson_index": 0,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "jemanden zu begrüßen und dich zu verabschieden",
+            "dich zu bedanken"
+          ],
+          "include": {
+            "id": "6815bf93df204c2bbdb11673af29a4d5"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "review",
+        "data": {
+          "active": false,
+          "completed": true,
+          "is_first": false,
+          "due_vocabulary_count": 0,
+          "total_vocabulary_count": 4
+        }
+      },
+      {
+        "type": "purchase",
+        "data": {
+          "active": true
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "b1d9c5daf64d4772933e1cb978b045e2",
+          "description": "Sehr angenehm!",
+          "detailed_description": "Hier lernst du: die Personalpronomen in der Einzahl - die höfliche Anrede",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>die Personalpronomen in der Einzahl</li><li>die höfliche Anrede</li></ol>",
+          "title": "¡Mucho gusto! Teil 2",
+          "image": {
+            "id": "6e931441fe804b0d8e6939191a43a2f5"
+          },
+          "lesson_index": 1,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "die Personalpronomen in der Einzahl",
+            "die höfliche Anrede"
+          ],
+          "include": {
+            "id": "53bcf7c5560d452cbbda59717c101352"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "bb330d83fd2847cb83b63718fa364a78",
+          "description": "Sehr angenehm!",
+          "detailed_description": "Hier lernst du: Begrüßungen zu verschiedenen Tageszeiten - weibliche und männliche Endungen",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>Begrüßungen zu verschiedenen Tageszeiten</li><li>weibliche und männliche Endungen</li></ol>",
+          "title": "¡Mucho gusto! Teil 3",
+          "image": {
+            "id": "245a3a022d47c6f18e7dca739a37841b"
+          },
+          "lesson_index": 2,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "Begrüßungen zu verschiedenen Tageszeiten",
+            "weibliche und männliche Endungen"
+          ],
+          "include": {
+            "id": "c4a20264f87b662671d836ff617ed298"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "18ded7c78ef246c692832b95ce5843bb",
+          "description": "Sehr angenehm!",
+          "detailed_description": "Hier wiederholst du: den Wortschatz der vorherigen Lektionen - die Personalpronomen in der Einzahl - die höfliche Anrede",
+          "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der vorherigen Lektionen</li><li>die Personalpronomen in der Einzahl</li><li>die höfliche Anrede</li></ol>",
+          "title": "¡Mucho gusto! Wiederholung",
+          "image": {
+            "id": "f6bb8093c2d14b357fda0030034fc855"
+          },
+          "lesson_index": 3,
+          "topic_preamble": "Hier wiederholst du:",
+          "topics": [
+            "den Wortschatz der vorherigen Lektionen",
+            "die Personalpronomen in der Einzahl",
+            "die höfliche Anrede"
+          ],
+          "include": {
+            "id": "0153407e35700073459828d6f4746f08"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "4444ec9c9d034d30b2cbddb51811a52e",
+          "description": "Ich lerne Spanisch.",
+          "detailed_description": "Hier lernst du: ein paar nützliche Ausdrücke, wenn du gerade angefangen hast Spanisch zu lernen",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>ein paar nützliche Ausdrücke, wenn du gerade angefangen hast Spanisch zu lernen</li></ol>",
+          "title": "Aprendo español.",
+          "image": {
+            "id": "d02dcc58b15b4e39a0567c185d8a6ff5"
+          },
+          "lesson_index": 4,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "ein paar nützliche Ausdrücke, wenn du gerade angefangen hast Spanisch zu lernen"
+          ],
+          "include": {
+            "id": "f8a716872e4e4456a185814620e30a4f"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "976cb0c4b4cf4cf9b006f653d1fe74f8",
+          "description": "",
+          "detailed_description": "Hier lernst du: die Vokale und einige Konsonanten im Spanischen",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>die Vokale und einige Konsonanten im Spanischen</li></ol>",
+          "title": "Das Alphabet 1: Vokale und erste Konsonanten",
+          "image": {
+            "id": "52c60a5d5cc7489b8197f143120e507a"
+          },
+          "lesson_index": 5,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "die Vokale und einige Konsonanten im Spanischen"
+          ],
+          "include": {
+            "id": "d954ac3540d743b6b45d6894a5d03ece"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "e626358b47d04288983b96eb50a5c474",
+          "description": "Ich bin Claudia.",
+          "detailed_description": "Hier lernst du: jemanden willkommen zu heißen - die Personalpronomen in der Mehrzahl und ihre Endungen",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>jemanden willkommen zu heißen</li><li>die Personalpronomen in der Mehrzahl und ihre Endungen</li></ol>",
+          "title": "Yo soy Claudia. Teil 1",
+          "image": {
+            "id": "854c626c66b9e93f5e9435b47a1c1c12"
+          },
+          "lesson_index": 6,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "jemanden willkommen zu heißen",
+            "die Personalpronomen in der Mehrzahl und ihre Endungen"
+          ],
+          "include": {
+            "id": "387182648108a5ff5db8290f4604bd26"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "049de0269dfb496fb53eccdc987fcd2f",
+          "description": "Ich bin Claudia.",
+          "detailed_description": "Hier lernst du: dich vorzustellen - das Verb ser - Verben ohne Pronomen zu verwenden",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>dich vorzustellen</li><li>das Verb <i>ser</i></li><li>Verben ohne Pronomen zu verwenden</li></ol>",
+          "title": "Yo soy Claudia. Teil 2",
+          "image": {
+            "id": "06e6ecddec039d881e4dbbfa39f1875e"
+          },
+          "lesson_index": 7,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "dich vorzustellen",
+            "das Verb ser",
+            "Verben ohne Pronomen zu verwenden"
+          ],
+          "include": {
+            "id": "f019c42a174ebf27fc9f3aadf3df9bd2"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "d94b5095617b4f1e9d19936b16a9c70d",
+          "description": "Ich bin Claudia.",
+          "detailed_description": "Hier wiederholst du: den Wortschatz der vorherigen Lektionen - die Personalpronomen - die Formen von ser",
+          "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der vorherigen Lektionen</li><li>die Personalpronomen</li><li>die Formen von <i>ser</i></li></ol>",
+          "title": "Yo soy Claudia. Wiederholung",
+          "image": {
+            "id": "8ae8b6a2cd2b04d16a6bbf26ed57b139"
+          },
+          "lesson_index": 8,
+          "topic_preamble": "Hier wiederholst du:",
+          "topics": [
+            "den Wortschatz der vorherigen Lektionen",
+            "die Personalpronomen",
+            "die Formen von ser"
+          ],
+          "include": {
+            "id": "3aac0f22066a306b53e6e50c0e8be446"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      },
+      {
+        "type": "lesson",
+        "data": {
+          "active": false,
+          "unlocked": false,
+          "last_completed_activity": false,
+          "completed": false,
+          "learning_activity_id": "7fd8f6a66d9348b99283aa3de08ea439",
+          "description": "",
+          "detailed_description": "Hier lernst du: die Buchstaben f, l, m, n, ñ, r, and s",
+          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>die Buchstaben <i>f</i>, <i>l</i>, <i>m</i>, <i>n</i>, <i>ñ</i>, <i>r</i>, and <i>s</i></li></ol>",
+          "title": "Das Alphabet 2: Weitere Konsonanten",
+          "image": {
+            "id": "c175795fb46847cf9c1ff5cd820434d0"
+          },
+          "lesson_index": 9,
+          "topic_preamble": "Hier lernst du:",
+          "topics": [
+            "die Buchstaben f, l, m, n, ñ, r, and s"
+          ],
+          "include": {
+            "id": "37a5c09efe644fa8adb99ddfe9df228a"
+          },
+          "content_release_id": "63214941858f769be028f01062914531c51e9537",
+          "course_title": "Einsteiger - Kurs 1",
+          "course_id": "c66f42f2315244daa5a499520a385da7",
+          "course_overview_id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        }
+      }
+    ],
+    "meta": {
+      "active_course": {
+        "title": "Einsteiger - Kurs 1",
+        "description": "Auf Spanisch grüßen und sich vorstellen",
+        "lessons_count": 10,
+        "completed_lessons_count": 1,
+        "course_id": "c66f42f2315244daa5a499520a385da7",
+        "completed": false,
+        "tags": [
+          "progressive",
+          "A1"
+        ],
+        "course_overview": {
+          "id": "668cd64ab0f34ee5a2abef4b0ec5a7ea"
+        },
+        "image": {
+          "id": "8c63190b62c6462d9d9a238ee90c916a"
+        }
+      },
+      "learning_path_id": "90e8a48f1225e7798e4f44309820c2da0075a9696fecbf30f4ece470df03b3f0",
+      "anchor_item_position": 1
+    }
+  },
+  "seminars": {
+    "seminars": [
+      {
+        "cefr_level": "A1",
+        "description": "Lerne, den Ort von alltäglichen Gegenständen und Besitztümern mit dem Verb „estar“ zu beschreiben.",
+        "id": "190650ab2ef04ddd0dd0e3af88a28e94515ef165",
+        "learn_language_alpha3": "SPA",
+        "locale": "de",
+        "title": "A1 - Sprich darüber, wo Dinge sind",
+        "available_seats_count": 6,
+        "end": "2022-05-29T15:00:00.000Z",
+        "isCancelled": false,
+        "start": "2022-05-29T14:00:00.000Z",
+        "booked_seat_count": 6,
+        "package_id": "SPA_A1_09_Cosas-v1",
+        "state": "SeminarWillStart",
+        "teacher": {
+          "id": "494991274ea88d6db00565fba3286c27",
+          "displayname": "Nora"
+        },
+        "attended": false,
+        "remaining_seats_count": 0,
+        "booked": false,
+        "feedback_given": false
+      },
+      {
+        "cefr_level": "A2",
+        "description": "Lerne nützliche Sätze, um über deinen Tagesablauf und deine Arbeiten im Haushalt zu sprechen.",
+        "id": "47d805fa23938c85ba46f66dd553937495e22ae5",
+        "learn_language_alpha3": "SPA",
+        "locale": "de",
+        "title": "A2 - Sprich über dein Zuhause",
+        "available_seats_count": 6,
+        "end": "2022-05-29T15:00:00.000Z",
+        "isCancelled": false,
+        "start": "2022-05-29T14:00:00.000Z",
+        "booked_seat_count": 6,
+        "package_id": "SPA_A2_14_Hogar-v1",
+        "state": "SeminarWillStart",
+        "teacher": {
+          "id": "2b5ad77c1042a7b9302e0356e8ec2edd",
+          "displayname": "Marisel"
+        },
+        "attended": false,
+        "remaining_seats_count": 0,
+        "booked": false,
+        "feedback_given": false
+      },
+      {
+        "cefr_level": "A2",
+        "description": "Verbessere deine erzählerischen Fähigkeiten, indem du den besten Urlaub beschreibst, den du hattest.",
+        "id": "58fbe2a2431cc866489ff4302f4b67980f06c6e1",
+        "learn_language_alpha3": "SPA",
+        "locale": "de",
+        "title": "A2 - Sprich über den besten Urlaub deines Lebens",
+        "available_seats_count": 6,
+        "end": "2022-05-29T16:00:00.000Z",
+        "isCancelled": false,
+        "start": "2022-05-29T15:00:00.000Z",
+        "booked_seat_count": 6,
+        "package_id": "SPA_A2_29_Vacaciones-v1",
+        "state": "SeminarScheduled",
+        "teacher": {
+          "id": "2b5ad77c1042a7b9302e0356e8ec2edd",
+          "displayname": "Marisel"
+        },
+        "attended": false,
+        "remaining_seats_count": 0,
+        "booked": false,
+        "feedback_given": false
+      }
+    ]
+  }
+}
