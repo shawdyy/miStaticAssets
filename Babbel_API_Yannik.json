@@ -84,288 +84,288 @@
     }
   },
   "learning_path": {
-      "items": [{
-        "type": "placement_test",
-        "data": {
-          "active": false,
-          "completed": true,
-          "course_title": "Einsteiger - Kurs 1"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": true,
-          "unlocked": true,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "b86f9ac0b16548eb9a644541d52364f6",
-          "description": "Hallo!",
-          "detailed_description": "Hier lernst du: andere zu begrüßen und zu verabschieden - ja und danke zu sagen",
-          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>andere zu begrüßen und zu verabschieden</li><li><i>ja</i> und <i>danke</i> zu sagen</li></ol>",
-          "title": "Ciao! Teil 1",
-          "image": {
-            "id": "9b2a54c2f58e4abaabe02e48be71d958"
-          },
-          "lesson_index": 0,
-          "topic_preamble": "Hier lernst du:",
-          "topics": ["andere zu begrüßen und zu verabschieden", "ja und danke zu sagen"],
-          "include": {
-            "id": "73661c54c1ecce4d42c255c9aeb3b1f1"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "purchase",
-        "data": {
-          "active": false
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "fd89dec8f05e48c785f0a65d2808d0cc",
-          "description": "Hallo!",
-          "detailed_description": "Hier lernst du: erste Sätze, um sich zu begrüßen - zu fragen, wie es anderen geht",
-          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>erste Sätze, um sich zu begrüßen</li><li>zu fragen, wie es anderen geht</li></ol>",
-          "title": "Ciao! Teil 2",
-          "image": {
-            "id": "cc8a3a6b029f8a3ac4c75e1272a9f346"
-          },
-          "lesson_index": 1,
-          "topic_preamble": "Hier lernst du:",
-          "topics": ["erste Sätze, um sich zu begrüßen", "zu fragen, wie es anderen geht"],
-          "include": {
-            "id": "27dbbcb02532dde668fb221fdb9896e0"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "0356e327b2cd41f0be5371682f4354f0",
-          "description": "Hallo!",
-          "detailed_description": "Hier wiederholst du: den Wortschatz der letzten zwei Lektionen - wie man sich formell und informell begrüßt",
-          "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der letzten zwei Lektionen</li><li>wie man sich formell und informell begrüßt</li></ol>",
-          "title": "Ciao! Wiederholung",
-          "image": {
-            "id": "422e2920b2bbe62d484d18c3fbad9e1b"
-          },
-          "lesson_index": 2,
-          "topic_preamble": "Hier wiederholst du:",
-          "topics": ["den Wortschatz der letzten zwei Lektionen", "wie man sich formell und informell begrüßt"],
-          "include": {
-            "id": "245b1d9c1c73764567cae76585ec8cea"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "5e6c85e858a4417fb76587c6a3f0df17",
-          "description": "Wie heißt du?",
-          "detailed_description": "Hier lernst du: dich vorzustellen und zu fragen, wie jemand heißt - die Personalpronomen in der Einzahl - den Unterschied zwischen tu und Lei",
-          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>dich vorzustellen und zu fragen, wie jemand heißt</li><li>die Personalpronomen in der Einzahl</li><li>den Unterschied zwischen <i>tu</i> und <i>Lei</i></li></ol>",
-          "title": "Come ti chiami? Teil 1",
-          "image": {
-            "id": "776a78271d03034492c7945d53090c5f"
-          },
-          "lesson_index": 3,
-          "topic_preamble": "Hier lernst du:",
-          "topics": ["dich vorzustellen und zu fragen, wie jemand heißt", "die Personalpronomen in der Einzahl", "den Unterschied zwischen tu und Lei"],
-          "include": {
-            "id": "8639d3caf2f93c5c6972b3987cdf9808"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "208877b0684b4bedb005995ec1304173",
-          "description": "Wie heißt du?",
-          "detailed_description": "Hier lernst du: zu sagen, woher du kommst und andere nach der Herkunft zu fragen - die Personalpronomen in der Mehrzahl - das Verb essere (sein)",
-          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>zu sagen, woher du kommst und andere nach der Herkunft zu fragen</li><li>die Personalpronomen in der Mehrzahl</li><li>das Verb <i>essere</i> (sein)</li></ol>",
-          "title": "Come ti chiami? Teil 2",
-          "image": {
-            "id": "e4b18e8e8a36a28b92ff22becf2f70b3"
-          },
-          "lesson_index": 4,
-          "topic_preamble": "Hier lernst du:",
-          "topics": ["zu sagen, woher du kommst und andere nach der Herkunft zu fragen", "die Personalpronomen in der Mehrzahl", "das Verb essere (sein)"],
-          "include": {
-            "id": "cb5e9dca2ead4ee28041edafb5523718"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "b3e39cf3bf754ce6b1873c961899bc0a",
-          "description": "Wie heißt du?",
-          "detailed_description": "Hier lernst du: zu sagen, woher du kommst und andere nach der Herkunft zu fragen - die Personalpronomen in der Mehrzahl - das Verb essere (sein)",
-          "detailed_description_html": "<div>Hier lernst du:</div><ol><li>zu sagen, woher du kommst und andere nach der Herkunft zu fragen</li><li>die Personalpronomen in der Mehrzahl</li><li>das Verb <i>essere</i> (sein)</li></ol>",
-          "title": "Come ti chiami? Teil 3",
-          "image": {
-            "id": "e4b18e8e8a36a28b92ff22becf2f70b3"
-          },
-          "lesson_index": 5,
-          "topic_preamble": "Hier lernst du:",
-          "topics": ["zu sagen, woher du kommst und andere nach der Herkunft zu fragen", "die Personalpronomen in der Mehrzahl", "das Verb essere (sein)"],
-          "include": {
-            "id": "cbf12cc105074991a20737474ede8565"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }, {
-        "type": "lesson",
-        "data": {
-          "active": false,
-          "unlocked": false,
-          "last_completed_activity": false,
-          "completed": false,
-          "learning_activity_id": "b83912dbbe644f46a38e180e4a57723a",
-          "description": "Wie heißt du?",
-          "detailed_description": "Hier wiederholst du: den Wortschatz der letzten zwei Lektionen - die Personalpronomen - die Formen des Verbs essere",
-          "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der letzten zwei Lektionen</li><li>die Personalpronomen</li><li>die Formen des Verbs <i>essere</i></li></ol>",
-          "title": "Come ti chiami? Wiederholung",
-          "image": {
-            "id": "05d71fcfbca7675596916cb9db5762b4"
-          },
-          "lesson_index": 6,
-          "topic_preamble": "Hier wiederholst du:",
-          "topics": ["den Wortschatz der letzten zwei Lektionen", "die Personalpronomen", "die Formen des Verbs essere"],
-          "include": {
-            "id": "da77e9740c6fccda0dbe3c5cb022283e"
-          },
-          "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
-          "course_title": "Einsteiger - Kurs 1",
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-        }
-      }],
-      "meta": {
-        "active_course": {
-          "title": "Einsteiger - Kurs 1",
-          "description": "Jemanden begrüßen, nach dem Befinden fragen, sich vorstellen und über die Herkunft sprechen",
-          "lessons_count": 7,
-          "completed_lessons_count": 0,
-          "course_id": "b41bbae1427bce0bad4160b343a3ab16",
-          "completed": false,
-          "tags": ["progressive", "A1"],
-          "course_overview": {
-            "id": "f4cf05a1118949e9a58ce7c7fb33d33d"
-          },
-          "image": {
-            "id": "8c63190b62c6462d9d9a238ee90c916a"
-          }
-        },
-        "learning_path_id": "9830af793fa5fe944d1ce5dc087cc3d9d0813ed3fa42ec158f8fcb959eef0054",
-        "anchor_item_position": 0
+    "items": [{
+      "type": "placement_test",
+      "data": {
+        "active": false,
+        "completed": true,
+        "course_title": "Einsteiger - Kurs 1"
       }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": true,
+        "unlocked": true,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "b86f9ac0b16548eb9a644541d52364f6",
+        "description": "Hallo!",
+        "detailed_description": "Hier lernst du: andere zu begrüßen und zu verabschieden - ja und danke zu sagen",
+        "detailed_description_html": "<div>Hier lernst du:</div><ol><li>andere zu begrüßen und zu verabschieden</li><li><i>ja</i> und <i>danke</i> zu sagen</li></ol>",
+        "title": "Ciao! Teil 1",
+        "image": {
+          "id": "9b2a54c2f58e4abaabe02e48be71d958"
+        },
+        "lesson_index": 0,
+        "topic_preamble": "Hier lernst du:",
+        "topics": ["andere zu begrüßen und zu verabschieden", "ja und danke zu sagen"],
+        "include": {
+          "id": "73661c54c1ecce4d42c255c9aeb3b1f1"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "purchase",
+      "data": {
+        "active": false
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "fd89dec8f05e48c785f0a65d2808d0cc",
+        "description": "Hallo!",
+        "detailed_description": "Hier lernst du: erste Sätze, um sich zu begrüßen - zu fragen, wie es anderen geht",
+        "detailed_description_html": "<div>Hier lernst du:</div><ol><li>erste Sätze, um sich zu begrüßen</li><li>zu fragen, wie es anderen geht</li></ol>",
+        "title": "Ciao! Teil 2",
+        "image": {
+          "id": "cc8a3a6b029f8a3ac4c75e1272a9f346"
+        },
+        "lesson_index": 1,
+        "topic_preamble": "Hier lernst du:",
+        "topics": ["erste Sätze, um sich zu begrüßen", "zu fragen, wie es anderen geht"],
+        "include": {
+          "id": "27dbbcb02532dde668fb221fdb9896e0"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "0356e327b2cd41f0be5371682f4354f0",
+        "description": "Hallo!",
+        "detailed_description": "Hier wiederholst du: den Wortschatz der letzten zwei Lektionen - wie man sich formell und informell begrüßt",
+        "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der letzten zwei Lektionen</li><li>wie man sich formell und informell begrüßt</li></ol>",
+        "title": "Ciao! Wiederholung",
+        "image": {
+          "id": "422e2920b2bbe62d484d18c3fbad9e1b"
+        },
+        "lesson_index": 2,
+        "topic_preamble": "Hier wiederholst du:",
+        "topics": ["den Wortschatz der letzten zwei Lektionen", "wie man sich formell und informell begrüßt"],
+        "include": {
+          "id": "245b1d9c1c73764567cae76585ec8cea"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "5e6c85e858a4417fb76587c6a3f0df17",
+        "description": "Wie heißt du?",
+        "detailed_description": "Hier lernst du: dich vorzustellen und zu fragen, wie jemand heißt - die Personalpronomen in der Einzahl - den Unterschied zwischen tu und Lei",
+        "detailed_description_html": "<div>Hier lernst du:</div><ol><li>dich vorzustellen und zu fragen, wie jemand heißt</li><li>die Personalpronomen in der Einzahl</li><li>den Unterschied zwischen <i>tu</i> und <i>Lei</i></li></ol>",
+        "title": "Come ti chiami? Teil 1",
+        "image": {
+          "id": "776a78271d03034492c7945d53090c5f"
+        },
+        "lesson_index": 3,
+        "topic_preamble": "Hier lernst du:",
+        "topics": ["dich vorzustellen und zu fragen, wie jemand heißt", "die Personalpronomen in der Einzahl", "den Unterschied zwischen tu und Lei"],
+        "include": {
+          "id": "8639d3caf2f93c5c6972b3987cdf9808"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "208877b0684b4bedb005995ec1304173",
+        "description": "Wie heißt du?",
+        "detailed_description": "Hier lernst du: zu sagen, woher du kommst und andere nach der Herkunft zu fragen - die Personalpronomen in der Mehrzahl - das Verb essere (sein)",
+        "detailed_description_html": "<div>Hier lernst du:</div><ol><li>zu sagen, woher du kommst und andere nach der Herkunft zu fragen</li><li>die Personalpronomen in der Mehrzahl</li><li>das Verb <i>essere</i> (sein)</li></ol>",
+        "title": "Come ti chiami? Teil 2",
+        "image": {
+          "id": "e4b18e8e8a36a28b92ff22becf2f70b3"
+        },
+        "lesson_index": 4,
+        "topic_preamble": "Hier lernst du:",
+        "topics": ["zu sagen, woher du kommst und andere nach der Herkunft zu fragen", "die Personalpronomen in der Mehrzahl", "das Verb essere (sein)"],
+        "include": {
+          "id": "cb5e9dca2ead4ee28041edafb5523718"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "b3e39cf3bf754ce6b1873c961899bc0a",
+        "description": "Wie heißt du?",
+        "detailed_description": "Hier lernst du: zu sagen, woher du kommst und andere nach der Herkunft zu fragen - die Personalpronomen in der Mehrzahl - das Verb essere (sein)",
+        "detailed_description_html": "<div>Hier lernst du:</div><ol><li>zu sagen, woher du kommst und andere nach der Herkunft zu fragen</li><li>die Personalpronomen in der Mehrzahl</li><li>das Verb <i>essere</i> (sein)</li></ol>",
+        "title": "Come ti chiami? Teil 3",
+        "image": {
+          "id": "e4b18e8e8a36a28b92ff22becf2f70b3"
+        },
+        "lesson_index": 5,
+        "topic_preamble": "Hier lernst du:",
+        "topics": ["zu sagen, woher du kommst und andere nach der Herkunft zu fragen", "die Personalpronomen in der Mehrzahl", "das Verb essere (sein)"],
+        "include": {
+          "id": "cbf12cc105074991a20737474ede8565"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }, {
+      "type": "lesson",
+      "data": {
+        "active": false,
+        "unlocked": false,
+        "last_completed_activity": false,
+        "completed": false,
+        "learning_activity_id": "b83912dbbe644f46a38e180e4a57723a",
+        "description": "Wie heißt du?",
+        "detailed_description": "Hier wiederholst du: den Wortschatz der letzten zwei Lektionen - die Personalpronomen - die Formen des Verbs essere",
+        "detailed_description_html": "<div>Hier wiederholst du:</div><ol><li>den Wortschatz der letzten zwei Lektionen</li><li>die Personalpronomen</li><li>die Formen des Verbs <i>essere</i></li></ol>",
+        "title": "Come ti chiami? Wiederholung",
+        "image": {
+          "id": "05d71fcfbca7675596916cb9db5762b4"
+        },
+        "lesson_index": 6,
+        "topic_preamble": "Hier wiederholst du:",
+        "topics": ["den Wortschatz der letzten zwei Lektionen", "die Personalpronomen", "die Formen des Verbs essere"],
+        "include": {
+          "id": "da77e9740c6fccda0dbe3c5cb022283e"
+        },
+        "content_release_id": "a1480aeb08ac8df5250d7ada319b9e6e5bbbdf8b",
+        "course_title": "Einsteiger - Kurs 1",
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "course_overview_id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+      }
+    }],
+    "meta": {
+      "active_course": {
+        "title": "Einsteiger - Kurs 1",
+        "description": "Jemanden begrüßen, nach dem Befinden fragen, sich vorstellen und über die Herkunft sprechen",
+        "lessons_count": 7,
+        "completed_lessons_count": 0,
+        "course_id": "b41bbae1427bce0bad4160b343a3ab16",
+        "completed": false,
+        "tags": ["progressive", "A1"],
+        "course_overview": {
+          "id": "f4cf05a1118949e9a58ce7c7fb33d33d"
+        },
+        "image": {
+          "id": "8c63190b62c6462d9d9a238ee90c916a"
+        }
+      },
+      "learning_path_id": "9830af793fa5fe944d1ce5dc087cc3d9d0813ed3fa42ec158f8fcb959eef0054",
+      "anchor_item_position": 0
+    }
   },
   "seminars": {
     "seminars": [{
-        "cefr_level": "A1",
-        "description": "Lerne, den Ort von alltäglichen Gegenständen und Besitztümern mit dem Verb „estar“ zu beschreiben.",
-        "id": "190650ab2ef04ddd0dd0e3af88a28e94515ef165",
-        "learn_language_alpha3": "SPA",
-        "locale": "de",
-        "title": "A1 - Sprich darüber, wo Dinge sind",
-        "available_seats_count": 6,
-        "end": "2022-05-29T15:00:00.000Z",
-        "isCancelled": false,
-        "start": "2022-05-29T14:00:00.000Z",
-        "booked_seat_count": 6,
-        "package_id": "SPA_A1_09_Cosas-v1",
-        "state": "SeminarWillStart",
-        "teacher": {
-          "id": "494991274ea88d6db00565fba3286c27",
-          "displayname": "Nora"
-        },
-        "attended": false,
-        "remaining_seats_count": 0,
-        "booked": false,
-        "feedback_given": false
-      },
-      {
         "cefr_level": "A2",
-        "description": "Lerne nützliche Sätze, um über deinen Tagesablauf und deine Arbeiten im Haushalt zu sprechen.",
-        "id": "47d805fa23938c85ba46f66dd553937495e22ae5",
-        "learn_language_alpha3": "SPA",
-        "locale": "de",
-        "title": "A2 - Sprich über dein Zuhause",
+        "description": "Learn about the Italian school system and typical Italian school trips.",
+        "id": "28ddd5ba0ef4249ae2d6459744842ab236091bf4",
+        "learn_language_alpha3": "ITA",
+        "locale": "en",
+        "title": "A2 - Talk about a short trip",
         "available_seats_count": 6,
-        "end": "2022-05-29T15:00:00.000Z",
+        "end": "2022-05-30T10:00:00.000Z",
         "isCancelled": false,
-        "start": "2022-05-29T14:00:00.000Z",
-        "booked_seat_count": 6,
-        "package_id": "SPA_A2_14_Hogar-v1",
-        "state": "SeminarWillStart",
-        "teacher": {
-          "id": "2b5ad77c1042a7b9302e0356e8ec2edd",
-          "displayname": "Marisel"
-        },
-        "attended": false,
-        "remaining_seats_count": 0,
-        "booked": false,
-        "feedback_given": false
-      },
-      {
-        "cefr_level": "A2",
-        "description": "Verbessere deine erzählerischen Fähigkeiten, indem du den besten Urlaub beschreibst, den du hattest.",
-        "id": "58fbe2a2431cc866489ff4302f4b67980f06c6e1",
-        "learn_language_alpha3": "SPA",
-        "locale": "de",
-        "title": "A2 - Sprich über den besten Urlaub deines Lebens",
-        "available_seats_count": 6,
-        "end": "2022-05-29T16:00:00.000Z",
-        "isCancelled": false,
-        "start": "2022-05-29T15:00:00.000Z",
-        "booked_seat_count": 6,
-        "package_id": "SPA_A2_29_Vacaciones-v1",
+        "start": "2022-05-30T09:00:00.000Z",
+        "booked_seat_count": 3,
+        "package_id": "ITA_A2_36_BreveViaggio-v1",
         "state": "SeminarScheduled",
         "teacher": {
-          "id": "2b5ad77c1042a7b9302e0356e8ec2edd",
-          "displayname": "Marisel"
+          "id": "a18bab38b512ed197130b0c172a3132b",
+          "displayname": "Maria"
         },
         "attended": false,
-        "remaining_seats_count": 0,
+        "remaining_seats_count": 3,
+        "booked": false,
+        "feedback_given": false
+      },
+      {
+        "cefr_level": "A2",
+        "description": "Discuss movie genres, famous Italian films and directors, and describe a movie you have seen.",
+        "id": "9f063b8a7a67d032c9ce38e6a6dc4c9cdc19b972",
+        "learn_language_alpha3": "ITA",
+        "locale": "en",
+        "title": "A2 - Talk about movies and the cinema",
+        "available_seats_count": 6,
+        "end": "2022-05-30T10:00:00.000Z",
+        "isCancelled": false,
+        "start": "2022-05-30T09:00:00.000Z",
+        "booked_seat_count": 2,
+        "package_id": "ITA_A2_33_Cinema-v1",
+        "state": "SeminarScheduled",
+        "teacher": {
+          "id": "95b06cf73257d58a2037aadccab15b10",
+          "displayname": "Michela"
+        },
+        "attended": false,
+        "remaining_seats_count": 4,
+        "booked": false,
+        "feedback_given": false
+      },
+      {
+        "cefr_level": "B2",
+        "description": "Dopo questa lezione, saprai parlare di scelte di vita passate e riflettere su cosa sarebbe stato diverso. Inoltre, avrai ripassato il condizionale passato e imparato nuovi verbi di riflessione.",
+        "id": "c284933977b03fe2463813bda36eaa3cf371045f",
+        "learn_language_alpha3": "ITA",
+        "locale": "en",
+        "title": "B2 - Riflettere sulle scelte passate",
+        "available_seats_count": 6,
+        "end": "2022-05-30T10:00:00.000Z",
+        "isCancelled": false,
+        "start": "2022-05-30T09:00:00.000Z",
+        "booked_seat_count": 3,
+        "package_id": "ITA_B2_13_SceltePassate-v1",
+        "state": "SeminarScheduled",
+        "teacher": {
+          "id": "d5d4779d652f085bc966a31c8cfdb84d",
+          "displayname": "Giada"
+        },
+        "attended": false,
+        "remaining_seats_count": 3,
         "booked": false,
         "feedback_given": false
       }
